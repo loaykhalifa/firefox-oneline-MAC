@@ -30,7 +30,7 @@
   # about:config Tips :
   
    always Open bookmarks in new tab 
-- browser.tabs.loadBookmarksInTabs	true
+   - browser.tabs.loadBookmarksInTabs	 --> true
   
    always Open url in new tab ( use it as searchbar ) 
-- browser.urlbar.openintab	true
+   - browser.urlbar.openintab  --> true
