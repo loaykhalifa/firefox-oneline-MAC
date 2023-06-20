@@ -23,7 +23,7 @@
  - click ⬆️ to download
  - drag & drop .xpi file in firefox
  - go to sidebery settings --> Styles Editor 
- - copy [sidebery Theme]([https://github.com/mbnuqw/sidebery/releases/download/v5.0.0b32/sidebery-5.0.0b32.xpi](https://github.com/loaykhalifa/firefox-oneline-MAC/blob/main/sidebery%20theme.css))
+ - copy [sidebery Theme](https://github.com/loaykhalifa/firefox-oneline-MAC/blob/main/sidebery%20theme.css)
  - paste into Styles Editor CSS Field 
  
 
